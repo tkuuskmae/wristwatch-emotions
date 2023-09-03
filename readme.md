@@ -13,7 +13,7 @@
 
 ## Results
 
-####Zodiac Sea Wolf
+Zodiac Sea Wolf
 
 | Personal memory    | Official description |
 | -------- | ------- |
@@ -22,7 +22,7 @@
 | disapproval: 0.42 |     |
 
 
-####Vulcain Cricket
+Vulcain Cricket
 
 | Personal memory    | Official description |
 | -------- | ------- |
@@ -30,7 +30,7 @@
 | curiosity: 0.43 | disgust: 0.63 |
 | approval: 0.42 | confusion: 0.58 |
 
-####Tudor Submariner (since traded for a Rolex GMT)
+Tudor Submariner (since traded for a Rolex GMT)
 
 | Personal memory    | Official description |
 | -------- | ------- |
@@ -38,7 +38,7 @@
 | annoyance: 0.42 | annoyance: 0.42 |
 | sadness: 0.42 | approval: 0.42 |
 
-####Seiko SKX
+Seiko SKX
 
 | Personal memory    | Official description |
 | -------- | ------- |
@@ -46,7 +46,7 @@
 | annoyance: 0.42 | annoyance: 0.42 |
 | disapproval: 0.49 | disapproval: 0.42 |
 
-####Hamilton Neil
+Hamilton Neil
 
 | Personal memory    | Official description |
 | -------- | ------- |
