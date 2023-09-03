@@ -1,6 +1,6 @@
 # GoEmotions experiment using wristwatch narratives
 
-* This experiment is described in the blog post ["Memories of wristwatches: the emotional measurement"](http://www.mindthemeaning.com/kuukiri-est/2023/8/31/malestusi-kaekelladest-est)
+* This experiment is described in the blog post ["Memories of wristwatches: the emotional measurement"](http://www.mindthemeaning.com/kuukiri-est/malestusi-kaekelladest-est)
 * It compares the results of 5 personal narratives about wristwatches and the official descriptions of these watches from the homepages of the producers
 * The experiment uses the Google's ["GoEmotions"](https://blog.research.google/2021/10/goemotions-dataset-for-fine-grained.html) colab
 * The hypothesis was that the emotional spectrum should differ between the personal and official stories
